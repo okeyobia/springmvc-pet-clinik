@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.okeyobia</groupId>
 	<artifactId>springmvc-pet-clinik</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>springmvc-pet-clinik</name>
 	<description>Pet clinic App</description>
 
@@ -64,7 +64,7 @@
 		<developerConnection>
 			scm:git:https://github.com/okeyobia/springmvc-pet-clinik.git
 		</developerConnection>
-	  <tag>springmvc-pet-clinik-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
